@@ -1,5 +1,5 @@
 // @flow
-utilimport type { CSSValue } from './types';
+import type { CSSValue } from "../types";
 
 /**
  * Composes a variable number of CSS helper functions.
